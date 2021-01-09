@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043066192688",
+    "project_id": "noteskeeping-2965a",
+    "storage_bucket": "noteskeeping-2965a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043066192688:android:fe06da4aebc903df64fef5",
+        "android_client_info": {
+          "package_name": "com.umair.my_notes_taking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043066192688-3mq7l6p8fbejevvpv32oek4sf7u93e8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRvc8aQHh5Nw_w_WoSEIjuBDZm1sOw0E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043066192688-3mq7l6p8fbejevvpv32oek4sf7u93e8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
